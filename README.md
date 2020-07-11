@@ -1,0 +1,2 @@
+# RedEnvelopeGame
+基于SpringBoot实现的一个红包Demo
